@@ -6,6 +6,7 @@ This repository follows the instructions in Chapter 1, “Kicking the Tires”, 
 ```
 git clone https://github.com/anirudhb123/hugo-kicking-the-tires.git
 cd hugo-kicking-the-tires
+cd portfolio
 hugo server
 ```
 
